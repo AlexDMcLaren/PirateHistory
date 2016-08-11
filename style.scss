@@ -1,0 +1,16 @@
+@import "partials/normalize";
+@import "partials/variables";
+@import "partials/mixins";
+@import "partials/header";
+@import "partials/nav";
+@import "partials/content";
+@import "partials/footer";
+
+
+.container-fluid{
+                  background: url('../images/oldpaper.jpg');
+                }
+
+
+
+@import "partials/media";

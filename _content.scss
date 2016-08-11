@@ -1,0 +1,67 @@
+
+.content{
+         width: 1140px;
+         background: rgba(255, 255, 255, .6);
+         margin-left: 135px;
+         overflow: hidden;
+         padding-bottom: 80px;
+
+         .holder{
+                 padding: 20px 0px 20px 0px;
+         }
+
+         .placeholder{
+                      height: 200px;
+                      width: 200px;
+                      background: white;
+                      position: relative;
+                      top: 40px;
+                      left: 50px;
+                      z-index: 5;
+                      text-align: center;
+                img{
+                          width: 100%;
+                }
+
+
+         }
+         .text{
+                height: 100px;
+                width: 180px;
+                position: relative;
+                top: 30px;
+                left: -325px;
+                overflow: hidden;
+
+
+         }
+
+ul{
+  list-style-type: none;
+}
+
+
+}
+
+hr {
+  border: 1px solid black;
+
+}
+
+.bonnet {width: 250px;
+height: 250px;
+float: left;
+}
+
+.blackbeard {width: 250px;
+height: 250px;
+float: left;
+}
+
+.jack {width: 250px;
+height: 250px;
+float: left;}
+
+.bb{
+    width: 90%;
+}
